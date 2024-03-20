@@ -1,0 +1,1 @@
+Register trước khi Login, nếu đã Register có thể Login luôn

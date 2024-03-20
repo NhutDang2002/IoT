@@ -1,0 +1,13 @@
+
+body{
+    background: linear-gradient(0, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5) ),
+    url(https://th.bing.com/th/id/R.8f2deccc43a9a7d7ab3f36c300d002d0?rik=A%2fqwLJWCzwD5lA&riu=http%3a%2f%2fclipart-library.com%2fimg%2f1175592.jpg&ehk=Boh%2fWcH39pantRTxPFVCqRpsuOmtdatCfS57AMPC7JI%3d&risl=&pid=ImgRaw&r=0);
+    background-size: 100%;
+}
+#first-heading{
+    color: coral;
+    font-size: 50px;
+}
+.title{
+    color: cornflowerblue;
+}
